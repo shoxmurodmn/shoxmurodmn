@@ -1,2 +1,2 @@
-Hello guest <iframe src="https://giphy.com/embed/PbGFUKs3queMhulFgO" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/AlaskaSeafood-PbGFUKs3queMhulFgO">via GIPHY</a></p>
+Hello guest <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc0ZWIyNTkxNTlmNGI1NTQyNDhkZWFjNDhjYzM1NTg1NGYyZDkyZiZjdD1n/PbGFUKs3queMhulFgO/giphy.gif">
 
